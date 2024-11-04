@@ -114,5 +114,3 @@ This parts are collected in  `./AE-process/3-Algorithm/`
 - **Expected Results**:
   
   The program's output in the command line should match the results presented in Table 2.
-
-#### We hope the AE process goes smoothly and feel free to ask any questions
