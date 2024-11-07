@@ -17,6 +17,8 @@ Due to the tight deadline, we will prioritize functional validation.
   - [x] Ablation Study: Impact of Dataset Balance
   - [x] Final Accuracy
 - [x] BLUED Dataset
+- [x] In-the-wild video
+- [ ] More detailed descriptions of code and dataset
 
 ## Hardware and Software Requirements
 
